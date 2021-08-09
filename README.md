@@ -41,7 +41,10 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 
 <img src="https://activity-graph.herokuapp.com/graph?username=vikashm2711&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikashm2711&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div alt="logo" height="160" align="center" >
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashm2711&theme=onedark&column=7&margin-w=10" alt="logo" height="160" align="center" />
+</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashm2711&layout=compact)](https://github.com/vikashm2711)
 
