@@ -37,9 +37,11 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 
 <!-- [![stats](https://github-readme-stats.vercel.app/api?username=vikashm2711&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/vikashm2711) -->
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=vikashm2711&show_icons=true&theme=dracula)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikashm2711&theme=dark)
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=vikashm2711&show_icons=true&theme=dracula) ![](https://github-readme-streak-stats.herokuapp.com/?user=vikashm2711&theme=dark)
+
 <img src="https://activity-graph.herokuapp.com/graph?username=vikashm2711&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikashm2711&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashm2711&layout=compact)](https://github.com/vikashm2711)
 
