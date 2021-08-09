@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/vikashm2711/vikashm2711/blob/main/IMG/intro.gif"></p>
+<p  align="center"><img src = "https://github.com/vikashm2711/vikashm2711/IMG/intro.gif"></p>
 
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
@@ -32,7 +32,7 @@
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://github.com/vikashm2711/vikashm2711/blob/main/IMG/quote.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/vikashm2711/vikashm2711/IMG/quote.gif" />
 
 :hammer_and_wrench: I'm Vikash and **I live to solve problems using analytics!** 
 
