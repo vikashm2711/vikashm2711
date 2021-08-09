@@ -6,24 +6,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/vikashm2711)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=vikashm2711&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 
-<a href="https://www.linkedin.com/in/vikashm2711/">
-  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vikashm2711">
-  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/anhmeu/">
-  <img align="left" alt="Vikash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discordapp.com/users/329565478794297345">
-  <img align="left" alt="Vikash's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://open.spotify.com/user/217rxnq3w6x3eqehrvodhv75y?si=b947163133844bc2">
-  <img align="left" alt="Vikash's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
-</a>
-<a href="https://www.hackerrank.com/nduongthucanh?hr_r=1">
-  <img align="left" alt="Vikash's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-vikashm2711-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikashm2711/)](https://www.linkedin.com/in/vikashm2711/)
+[![Medium Badge](https://img.shields.io/badge/-@vikashm2711-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@vikashm2711)](https://medium.com/@vikashm2711)
+[![Website Badge](https://img.shields.io/badge/-vikashmaurya.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://vikashmaurya.com)](https://vikashmaurya.com)
+[![Twitter Badge](https://img.shields.io/badge/-@vikashm2711-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/vikashm2711)
+[![Instagram Badge](https://img.shields.io/badge/-@vikashm2711-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vikashm2711_slam/)](https://instagram.com/vikashm2711)
+[![Gmail Badge](https://img.shields.io/badge/-vikashm2711-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vikashm2711@gmail.com)](mailto:vikashm2711@gmail.com)
+
 <br />
 
 ## Welcome to my GitHub profile! :octocat:
