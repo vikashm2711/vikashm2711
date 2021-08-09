@@ -36,6 +36,9 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 ## Stats 📈
 
 [![stats](https://github-readme-stats.vercel.app/api?username=vikashm2711&show_icons=true&count_private=true&title_color=971901&text_color=971901&icon_color=971901&no-bg=true&hide_border=true)](https://github.com/vikashm2711)
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=vikashm2711&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashm2711&layout=compact)](https://github.com/vikashm2711)
 
 ---
