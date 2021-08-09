@@ -1,4 +1,4 @@
-<p  align="center"><img src = "https://github.com/ndleah/ndleah/blob/main/IMG/intro.gif"></p>
+<!-- <p  align="center"><img src = "https://github.com/ndleah/ndleah/blob/main/IMG/intro.gif"></p>
 
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
@@ -66,3 +66,4 @@ For me, data analysis is a way to identify a pattern, to detect a key problem am
 ---
 
 ## View My Repositories 👇
+ -->
