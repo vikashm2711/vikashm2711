@@ -12,7 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@vikashm2711-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/vikashm2711)
 [![Instagram Badge](https://img.shields.io/badge/-@vikashm2711-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/vikashm2711_slam/)](https://instagram.com/vikashm2711)
 [![Gmail Badge](https://img.shields.io/badge/-vikashm2711-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vikashm2711@gmail.com)](mailto:vikashm2711@gmail.com)
-
+<br>
 <br />
 
 ## Welcome to my GitHub profile! :octocat:
