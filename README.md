@@ -21,7 +21,7 @@
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://github.com/vikashm2711/vikashm2711/IMG/quote.gif" />
+<img align="right" height="250" width="375" alt="GIF" src="https://github.com/vikashm2711/vikashm2711/IMG/quote2.gif" />
 
 :hammer_and_wrench: I'm Vikash and **I live to solve problems using analytics!** 
 
