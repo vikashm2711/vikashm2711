@@ -1,6 +1,6 @@
 <p  align="center"><img src = "https://github.com/vikashm2711/vikashm2711/blob/main/IMG/Github_banner.jpg"></p>
 
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="10px"></h2>
+## Hello World! </h2>
 <br />
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/vikashm2711)
